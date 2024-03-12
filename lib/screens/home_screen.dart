@@ -136,7 +136,7 @@ class HomeScreen extends StatelessWidget {
                       mainAxisAlignment: MainAxisAlignment.spaceBetween,
                       children: [
                         belowTimingRow("assets/images/img10.png","Temp Max","32°C"),
-                         belowTimingRow("assets/images/img12.png","Temp Min","8°C"),
+                        belowTimingRow("assets/images/img12.png","Temp Min","8°C"),
                       ],
                     ),
                   ],
